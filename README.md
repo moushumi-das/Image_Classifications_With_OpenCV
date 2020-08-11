@@ -10,6 +10,6 @@ In this project, I have built a image classsifier to itentify the image of femal
 **Steps:**
    1. Get Data: We need data to train our model. 
    2. Prepare Data: Clean, normalize, and get data in a form that we can feed into our model
-   3. Train Model:
+   3. Train Model: Trained data using Support Vector Classification(SVC), Logistic Regression, and Random Forest Classification
    4. Evaluate model performance
    5. Parameter tuning
