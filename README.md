@@ -2,7 +2,7 @@
 For this Data Science project I have used OpenCV python  for image classification.
 
 ## Data
-I have made dataset for this project by scraping image from google using the [Fatkun Batch Download Image](https://chrome.google.com/webstore/detail/fatkun-batch-download-ima/nnjjahlikiabnchcpehcpkdeckfgnohf?hl=en) chrome extention.
+For this project, I have made my own dataset by scraping google image using the [Fatkun Batch Download Image](https://chrome.google.com/webstore/detail/fatkun-batch-download-ima/nnjjahlikiabnchcpehcpkdeckfgnohf?hl=en) chrome extention.
 
 ## Objective: 
 In this project, I have built a image classsifier to itentify the image of female tennis players.
