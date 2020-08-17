@@ -14,4 +14,4 @@ In this project, I have built a image classsifier to itentify the image of femal
    4. Evaluate model performance
    5. Parameter tuning.
    
-![](test image.png) 
+![](/images/test image.png)  
